@@ -57,10 +57,11 @@ Android: SHA256(app-release.apk) = [HASH]
 
 ## 📝 Changelog
 
-Veja [CHANGELOG.md](../CHANGELOG.md) para histórico completo.
+Veja [CHANGELOG.md](./CHANGELOG.md) para histórico completo.
 
 ---
 
 **Obrigado por usar Muvy Music!** 🎵
+
 
 
