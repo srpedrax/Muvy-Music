@@ -3,9 +3,8 @@
 ## v1.1.0 - 19 de janeiro de 2026
 
 ### ✨ Novas Funcionalidades
-- Rebrand completo: Gyawun → Muvy Music
 - Instalador Windows .exe com InnoSetup
-- Suporte para múltiplas plataformas (Windows, Android, Web)
+- Suporte para múltiplas plataformas (Windows, Android)
 - Material You Colors dinâmicas
 - Modo escuro aprimorado
 - Suporte multilíngue (EN, PT-BR)
