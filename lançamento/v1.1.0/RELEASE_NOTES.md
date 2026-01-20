@@ -20,13 +20,13 @@
 ## 📦 Downloads
 
 ### Windows
-- [Muvy-Music-Setup.exe](https://github.com/seu-usuario/muvy-music/releases/download/v1.1.0/Muvy-Music-Setup.exe) (~150MB)
+- [Muvy-Music-Setup.exe](https://github.com/srpedrax/muvy-music/releases/download/v1.1.0/Muvy-Music-Setup.exe) (~150MB)
   - Windows 7+
   - Instalador automático
   - Suporte multilíngue
 
 ### Android
-- [Muvy-Music.apk](https://github.com/seu-usuario/muvy-music/releases/download/v1.1.0/Muvy-Music.apk) (~65MB)
+- [Muvy-Music.apk](https://github.com/srpedrax/muvy-music/releases/download/v1.1.0/Muvy-Music.apk) (~65MB)
   - Android 5.0+
   - Multi-arquitetura
   - Otimizado para desempenho
@@ -62,4 +62,5 @@ Veja [CHANGELOG.md](../CHANGELOG.md) para histórico completo.
 ---
 
 **Obrigado por usar Muvy Music!** 🎵
+
 
