@@ -5,7 +5,6 @@
 
 ## ✨ Novidades
 
-- ✅ Rebrand completo: Gyawun → Muvy Music
 - ✅ Instalador Windows .exe unificado
 - ✅ APK Android para Google Play
 - ✅ Suporte multilíngue (EN, PT-BR)
@@ -27,7 +26,7 @@
   - Suporte multilíngue
 
 ### Android
-- [app-release.apk](https://github.com/seu-usuario/muvy-music/releases/download/v1.1.0/app-release.apk) (~65MB)
+- [Muvy-Music.apk](https://github.com/seu-usuario/muvy-music/releases/download/v1.1.0/Muvy-Music.apk) (~65MB)
   - Android 5.0+
   - Multi-arquitetura
   - Otimizado para desempenho
@@ -53,8 +52,8 @@ Android: SHA256(app-release.apk) = [HASH]
 
 ## 🆘 Suporte
 
-- Abrir issue: [GitHub Issues](https://github.com/seu-usuario/muvy-music/issues)
-- Discussão: [GitHub Discussions](https://github.com/seu-usuario/muvy-music/discussions)
+- Abrir issue: [GitHub Issues](https://github.com/srpedrax/muvy-music/issues)
+- Discussão: [GitHub Discussions](https://github.com/srpedrax/muvy-music/discussions)
 
 ## 📝 Changelog
 
@@ -63,3 +62,4 @@ Veja [CHANGELOG.md](../CHANGELOG.md) para histórico completo.
 ---
 
 **Obrigado por usar Muvy Music!** 🎵
+
