@@ -22,9 +22,7 @@ Muvy é um reprodutor de música moderno e elegante, desenvolvido para oferecer 
 
 ## Download
 
-[**Clique aqui para baixar a versão mais recente**]
-
-> *Adicione o link de download do seu site aqui*
+[**Clique aqui para baixar a versão mais recente**](https://muvymusic.vercel.app)
 
 ## Requisitos
 
@@ -56,3 +54,4 @@ O aplicativo verifica automaticamente por novas versões. Quando uma atualizaç�
 ---
 
 **Versão Atual:** 1.1.0
+
