@@ -53,5 +53,6 @@ O aplicativo verifica automaticamente por novas versões. Quando uma atualizaç�
 
 ---
 
-**Versão Atual:** 1.1.0
+**Versão Atual:** 1.2.0
+
 
